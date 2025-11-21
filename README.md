@@ -6,7 +6,7 @@ I’m a Business & Data Analyst passionate about transforming raw data into clea
 - 🔍 Interests: BI dashboards, reporting automation, marketing analytics, predictive modeling  
 - 🧠 Skills: Power BI, SQL, Excel (Advanced), R, Power Query, Data Modeling  
 - 🎓 Education: Master of Management – Business Data Analytics (University of Windsor)  
-- 🌍 Based in: Hamilton, ON, Canada  
+- 🌍 Based in: Ontario, Canada  
 
 ---
 
